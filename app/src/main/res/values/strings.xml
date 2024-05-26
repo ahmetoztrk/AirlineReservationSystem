@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PolarEkspress</string>
+    <string name="switch_on">İptal Modu</string>
+    <string name="switch_off">Rezervasyon Modu</string>
+</resources>
